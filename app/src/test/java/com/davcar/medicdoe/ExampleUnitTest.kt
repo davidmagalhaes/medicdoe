@@ -1,4 +1,4 @@
-package com.davcar.app
+package com.davcar.medicdoe
 
 import org.junit.Test
 
